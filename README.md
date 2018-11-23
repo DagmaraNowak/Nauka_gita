@@ -1,3 +1,3 @@
 # Nauka git-a
 
-hello world :)
+Plac zabaw dla nauki git-a.
