@@ -1,2 +1,3 @@
 imie="Dagmara"
-print("Hello World {0}!".format(imie))
+nazwisko="Nowak"
+print("Hello World {0} {1}!".format(imie, nazwisko))
